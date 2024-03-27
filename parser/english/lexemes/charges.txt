@@ -1182,6 +1182,7 @@ dragons? in ann?ull?o=dragon-in-annulo
 w[yi]vern?s?=wyvern
      # mythical / stylised creatures=
 =charge/mythical/
+martlets?=martlet
 minotaurs?=minotaur
 cerberuse?s?=cerberus
 allocameluse?s?=allocamelus
